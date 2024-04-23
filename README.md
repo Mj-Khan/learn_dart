@@ -1,5 +1,3 @@
-Here's a basic README template for your GitHub repository "Learn_Dart":
-
 ## Learn_Dart
 
 This repository documents my journey learning the Dart programming language. It serves as a collection of code examples, exercises, and notes to solidify my understanding of Dart concepts.
@@ -24,7 +22,3 @@ The repository contains the following:
 ### Contribution
 
 While this repository is primarily for personal learning, contributions are welcome! If you find any errors or have suggestions for improvement, feel free to submit a pull request.
-
-### License
-
-This repository is licensed under the MIT License: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
